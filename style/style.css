@@ -5,4 +5,14 @@
 	color: white;
 	font-family: verdana;
 	position: absolute;
+
+}
+.buttons{
+	border: none;
+	height: 50%;
+	width: 30%;
+	background-color: red;
+	font-family: verdana;
+	font-size: 48px;
+	color: white;
 }
